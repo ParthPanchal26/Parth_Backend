@@ -1,0 +1,22 @@
+{
+  "name": "management",
+  "version": "1.0.0",
+  "description": "a manager for management",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "expr": "nodemon index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "parth panchal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
