@@ -1,0 +1,89 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"400\",\"responseTime\":\"19.250\"}","timestamp":"2024-06-27T17:01:13.266Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"13.836\"}","timestamp":"2024-06-27T17:01:46.954Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"20.245\"}","timestamp":"2024-06-27T17:01:56.829Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"1.993\"}","timestamp":"2024-06-27T17:02:56.037Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"1.371\"}","timestamp":"2024-06-27T17:02:59.783Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.544\"}","timestamp":"2024-06-27T17:03:00.791Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.708\"}","timestamp":"2024-06-27T17:03:01.557Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.570\"}","timestamp":"2024-06-27T17:03:01.910Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.581\"}","timestamp":"2024-06-27T17:03:02.329Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"2.881\"}","timestamp":"2024-06-27T17:03:02.807Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"1.239\"}","timestamp":"2024-06-27T17:03:03.626Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.705\"}","timestamp":"2024-06-27T17:03:03.975Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.529\"}","timestamp":"2024-06-27T17:03:04.409Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.476\"}","timestamp":"2024-06-27T17:03:04.901Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.598\"}","timestamp":"2024-06-27T17:03:05.240Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"5.819\"}","timestamp":"2024-06-27T17:03:05.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.595\"}","timestamp":"2024-06-27T17:03:06.239Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.518\"}","timestamp":"2024-06-27T17:03:06.657Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.555\"}","timestamp":"2024-06-27T17:03:07.082Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.634\"}","timestamp":"2024-06-27T17:03:07.462Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.443\"}","timestamp":"2024-06-27T17:03:07.839Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.436\"}","timestamp":"2024-06-27T17:03:08.224Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.384\"}","timestamp":"2024-06-27T17:03:08.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.426\"}","timestamp":"2024-06-27T17:03:09.007Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.421\"}","timestamp":"2024-06-27T17:03:09.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.397\"}","timestamp":"2024-06-27T17:03:09.889Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.365\"}","timestamp":"2024-06-27T17:03:10.388Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.405\"}","timestamp":"2024-06-27T17:03:10.781Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.544\"}","timestamp":"2024-06-27T17:03:11.171Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.362\"}","timestamp":"2024-06-27T17:03:11.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.376\"}","timestamp":"2024-06-27T17:03:12.075Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.653\"}","timestamp":"2024-06-27T17:03:12.441Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.761\"}","timestamp":"2024-06-27T17:03:12.800Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.432\"}","timestamp":"2024-06-27T17:03:13.197Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/credentials/\",\"status\":\"200\",\"responseTime\":\"0.490\"}","timestamp":"2024-06-27T17:03:18.256Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/5\",\"status\":\"200\",\"responseTime\":\"5.991\"}","timestamp":"2024-06-27T17:03:57.459Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/5\",\"status\":\"404\",\"responseTime\":\"0.372\"}","timestamp":"2024-06-27T17:04:02.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/5\",\"status\":\"404\",\"responseTime\":\"0.351\"}","timestamp":"2024-06-27T17:04:03.304Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/5\",\"status\":\"404\",\"responseTime\":\"0.257\"}","timestamp":"2024-06-27T17:04:04.103Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/5\",\"status\":\"404\",\"responseTime\":\"0.354\"}","timestamp":"2024-06-27T17:04:04.458Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/8\",\"status\":\"200\",\"responseTime\":\"5.383\"}","timestamp":"2024-06-27T17:04:11.449Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/credentials/5\",\"status\":\"404\",\"responseTime\":\"0.828\"}","timestamp":"2024-06-27T17:04:24.032Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/credentials/8\",\"status\":\"404\",\"responseTime\":\"0.502\"}","timestamp":"2024-06-27T17:04:29.459Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/credentials/6\",\"status\":\"200\",\"responseTime\":\"0.672\"}","timestamp":"2024-06-27T17:04:34.455Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/credentials/\",\"status\":\"200\",\"responseTime\":\"2.615\"}","timestamp":"2024-06-27T17:06:09.563Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"20.280\"}","timestamp":"2024-06-27T17:06:15.471Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.899\"}","timestamp":"2024-06-27T17:06:16.394Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.599\"}","timestamp":"2024-06-27T17:06:16.776Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.530\"}","timestamp":"2024-06-27T17:06:20.167Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.504\"}","timestamp":"2024-06-27T17:06:23.683Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.837\"}","timestamp":"2024-06-27T17:06:24.801Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.460\"}","timestamp":"2024-06-27T17:06:25.673Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.743\"}","timestamp":"2024-06-27T17:06:26.581Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.735\"}","timestamp":"2024-06-27T17:06:27.448Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.592\"}","timestamp":"2024-06-27T17:06:28.315Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.461\"}","timestamp":"2024-06-27T17:06:29.076Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.477\"}","timestamp":"2024-06-27T17:06:29.835Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.982\"}","timestamp":"2024-06-27T17:06:30.790Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.616\"}","timestamp":"2024-06-27T17:06:31.680Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"0.653\"}","timestamp":"2024-06-27T17:06:32.506Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/credentials/\",\"status\":\"200\",\"responseTime\":\"0.345\"}","timestamp":"2024-06-27T17:06:36.881Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/8\",\"status\":\"200\",\"responseTime\":\"0.694\"}","timestamp":"2024-06-27T17:07:18.003Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/credentials/\",\"status\":\"200\",\"responseTime\":\"0.255\"}","timestamp":"2024-06-27T17:07:21.649Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/credentials/6\",\"status\":\"200\",\"responseTime\":\"0.650\"}","timestamp":"2024-06-27T17:07:39.856Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/credentials/\",\"status\":\"200\",\"responseTime\":\"0.287\"}","timestamp":"2024-06-27T17:07:51.453Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A Post request has made!","timestamp":"2024-06-27T17:12:35.472Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"34.291\"}","timestamp":"2024-06-27T17:12:35.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A Post request has made!","timestamp":"2024-06-27T17:12:36.643Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"3.653\"}","timestamp":"2024-06-27T17:12:36.646Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A Post request has made!","timestamp":"2024-06-27T17:12:37.567Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"1.704\"}","timestamp":"2024-06-27T17:12:37.568Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A Post request has made!","timestamp":"2024-06-27T17:12:38.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"1.944\"}","timestamp":"2024-06-27T17:12:38.439Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A Post request has made!","timestamp":"2024-06-27T17:12:39.222Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"1.562\"}","timestamp":"2024-06-27T17:12:39.224Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A Post request has made!","timestamp":"2024-06-27T17:12:40.113Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/credentials/\",\"status\":\"201\",\"responseTime\":\"2.524\"}","timestamp":"2024-06-27T17:12:40.115Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/credentials/\",\"status\":\"200\",\"responseTime\":\"0.580\"}","timestamp":"2024-06-27T17:12:44.455Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/credentials/6\",\"status\":\"200\",\"responseTime\":\"0.845\"}","timestamp":"2024-06-27T17:12:50.234Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/8\",\"status\":\"404\",\"responseTime\":\"1.965\"}","timestamp":"2024-06-27T17:12:57.349Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/8\",\"status\":\"404\",\"responseTime\":\"0.537\"}","timestamp":"2024-06-27T17:12:58.553Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/8\",\"status\":\"404\",\"responseTime\":\"0.268\"}","timestamp":"2024-06-27T17:12:59.736Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Deleting a record!","timestamp":"2024-06-27T17:13:04.626Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/6\",\"status\":\"200\",\"responseTime\":\"1.050\"}","timestamp":"2024-06-27T17:13:04.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/credentials/6\",\"status\":\"404\",\"responseTime\":\"0.299\"}","timestamp":"2024-06-27T17:13:06.208Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Record not exist!","timestamp":"2024-06-27T17:13:46.017Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/credentials/8\",\"status\":\"404\",\"responseTime\":\"1.355\"}","timestamp":"2024-06-27T17:13:46.018Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Record can not be updated as it does not exist!","timestamp":"2024-06-27T17:14:11.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/credentials/8\",\"status\":\"404\",\"responseTime\":\"22.459\"}","timestamp":"2024-06-27T17:14:11.494Z"}

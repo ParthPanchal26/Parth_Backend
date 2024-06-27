@@ -1,10 +1,27 @@
 import 'dotenv/config';
 import express from 'express';
+import logger from './logger.js';
+import morgan from 'morgan';
 
 const app = express();
-
 const port = process.env.PORT || 3000;
 
+const morganFormat = ':method :url :status :response-time ms';
+
+app.use(morgan(morganFormat, {
+    stream: {
+      write: (message) => {
+        const logObject = {
+          method: message.split(' ')[0],
+          url: message.split(' ')[1],
+          status: message.split(' ')[2],
+          responseTime: message.split(' ')[3],
+  
+        };
+        logger.info(JSON.stringify(logObject));
+      }
+    }
+  }));
 
 // Some basic route examples
 app.get('/', (req, res) => {
@@ -29,6 +46,7 @@ let nextId = 1;
 
 // To send data to route
 app.post("/credentials", (req, res) => {
+    logger.info("A Post request has made!")
     const {name, age} = req.body;
     const newData = {id:nextId++, name, age};
     Data.push(newData);
@@ -51,6 +69,7 @@ app.put("/credentials/:id", (req, res) => {
     const object = Data.find(obj => obj.id === parseInt(req.params.id));
     
     if (!object) {
+        logger.error("Record can not be updated as it does not exist!");
         return res.status(404).send("Could not find record!");
     }
 
@@ -67,7 +86,7 @@ app.delete("/credentials/:id", (req, res) => {
     if (index === -1) {
         return res.status(404).send("Could not find record!");
     }
-
+    logger.warn("Deleting a record!");
     Data.splice(index, 1);
     res.status(200).send("Record has deleted!");
 })
