@@ -1,0 +1,22 @@
+{
+  "name": "03_vidtube",
+  "version": "1.0.0",
+  "description": "A project inspired from YouTube!",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend",
+    "mongoose"
+  ],
+  "author": "parth panchal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
+  }
+}
